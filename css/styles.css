@@ -9,18 +9,15 @@ body {
     position: relative;
     padding-top: 100px;
     background-color: #E4F9F5;
-    size: 100%;
 }
 
 .middle-container {
     margin: 100px 0;
-    size: 100%;
 }
 
 .bottom-container {
     background-color: #66BFBF;
     padding: 50px 0 20px;
-    size: 100%;
 }
 
 p {
